@@ -22,7 +22,7 @@ The trained model can then be used to test the drone's ability to navigate the e
 
 ## Credits
 
-This project was created by Bouali Kassem Anis as part of Advanced Reinforcement Learning Course/Subject, @the Faculty of Informatics, University of Debrecen.].
+This project was created by Bouali Kassem Anis as part of Advanced Reinforcement Learning Course/Subject, @the Faculty of Informatics, University of Debrecen.
 
 ## License
 
