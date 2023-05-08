@@ -6,7 +6,7 @@ This project involves training a flying drone to navigate a virtual environment 
 
 Here is a demo of the flying drone in action:
 
-![Alt Text](./path/to/your/gif.gif)
+![Alt Text](Assets/config/ezgif-3-bcf3d9c4a6.gif)
 
 ## Getting Started
 
