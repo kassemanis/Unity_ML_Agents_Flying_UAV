@@ -1,4 +1,4 @@
-# Flying Drone Using Unity ML-Agents
+# Flying UAV Using Unity ML-Agents
 
 This project involves training a flying drone to navigate a virtual environment using Unity and the ML-Agents toolkit. Specifically, the drone must learn to dodge trees and reach a predetermined goal.
 
@@ -14,7 +14,7 @@ To get started with this project, you will need to have Python 3.7.9 and PyTorch
 
 Once you have Python, PyTorch, and ML-Agents installed, you can clone this repository and open the project in Unity to begin working with the drone.
 
-## Training the Drone
+## Training the UAV
 
 To train the drone, you will need to define a reward function that incentivizes the drone to avoid trees and reach the goal. You can then use the ML-Agents toolkit to train the drone using reinforcement learning.
 
